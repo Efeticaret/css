@@ -19,7 +19,7 @@
     "@primer/view-components": "^0.0.114",
     "@svgr/webpack": "5.5.0",
     "autoprefixer": "10.4.2",
-    "babel-preset-gatsby": "^2.14.0",
+    "babel-preset-gatsby": "^2.25.0",
     "chroma-js": "^2.4.2",
     "clsx": "^1.1.1",
     "core-js": "^3.20.3",
